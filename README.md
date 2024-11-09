@@ -3,6 +3,7 @@
 <h2> 👩🏽‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
+  - [Inspecting Newtwork Traffic In Azure](https://github.com/TawannaWillis/configure-ad)
   - [Installing Active Directory within Azure VMs](https://github.com/TawannaWillis/configure-ad)
   - [Configuring Active Directory within Azure VMs](https://github.com/TawannaWillis/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/TawannaWillis/azure-network-protocols)
