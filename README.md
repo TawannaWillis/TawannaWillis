@@ -6,7 +6,7 @@
   - [Inspecting Newtwork Traffic In Azure](https://github.com/TawannaWillis/configure-ad)
   
 
-- <b>osTicket (Help Desk Ticketing System)</b>
+
  
 
 
