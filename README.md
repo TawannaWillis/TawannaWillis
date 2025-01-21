@@ -2,9 +2,9 @@
 
 <h2> 👩🏽‍💻 Information Technology Projects:</h2>
 
-- <b>Microsoft Azure</b>
+- <b>Core Cloud Projects</b>
   - [azure-network-security-analysis](https://github.com/TawannaWillis/azure-network-security-analysis)
-  - [Installing-Active-Directory-In-Azure](https://github.com/TawannaWillis/Installing-Active-Directory-In-Azure)
+  - [azure-active-directory-configuration](https://github.com/TawannaWillis/azure-active-directory-configuration)
   
 
 
