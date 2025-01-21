@@ -3,7 +3,7 @@
 <h2> 👩🏽‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Inspecting Newtwork Traffic In Azure](https://github.com/TawannaWillis/configure-ad)
+  - [Inspecting Newtwork Traffic In Azure](https://github.com/TawannaWillis/Inspecting-Network-Traffic-In-Azure)
   
 
 
