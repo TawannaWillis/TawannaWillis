@@ -3,7 +3,7 @@
 <h2> 👩🏽‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Inspecting Newtwork Traffic In Azure](https://github.com/TawannaWillis/azure-network-security-analysis)
+  - [azure-network-security-analysis](https://github.com/TawannaWillis/azure-network-security-analysis)
   - [Installing-Active-Directory-In-Azure](https://github.com/TawannaWillis/Installing-Active-Directory-In-Azure)
   
 
