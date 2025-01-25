@@ -5,7 +5,7 @@
 - <b>Core Cloud Projects</b>
   - [azure-network-security-analysis](https://github.com/TawannaWillis/azure-network-security-analysis)
   - [azure-active-directory-installation](https://github.com/TawannaWillis/azure-active-directory-installation)
-  
+  - [azure-active-directory-configuration](https://github.com/TawannaWillis/azure-active-directory-configuration)
 
 
  
