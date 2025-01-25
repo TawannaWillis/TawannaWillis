@@ -8,7 +8,7 @@
   - [azure-active-directory-configuration](https://github.com/TawannaWillis/azure-active-directory-configuration)
 
 - <b>Security and Networking Projects</b>
- 
+  - [azure-network-security-analysis](https://github.com/TawannaWillis/azure-network-security-analysis)
 
 
 <h2>🫱🏽‍🫲🏼Connect with me:</h2>
