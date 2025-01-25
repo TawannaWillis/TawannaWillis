@@ -3,9 +3,9 @@
 <h2> 👩🏽‍💻 Information Technology Projects:</h2>
 
 - <b>Core Cloud Projects</b>
-  - [azure-network-security-analysis](https://github.com/TawannaWillis/azure-network-security-analysis)
-  - [azure-active-directory-installation](https://github.com/TawannaWillis/azure-active-directory-installation)
-  - [azure-active-directory-configuration](https://github.com/TawannaWillis/azure-active-directory-configuration)
+  - [Azure-network-security-analysis](https://github.com/TawannaWillis/Azure-network-security-analysis)
+  - [Azure-active-directory-installation](https://github.com/TawannaWillis/Azure-active-directory-installation)
+  - [Azure-active-directory-configuration](https://github.com/TawannaWillis/Azure-active-directory-configuration)
 
 - <b>Security and Networking Projects</b>
   - [Active-Directory-Account-Security](https://github.com/TawannaWillis/Active-Directory-Account-Security)
