@@ -9,6 +9,8 @@
 
 - <b>Security and Networking Projects</b>
   - [Active-Directory-Account-Security](https://github.com/TawannaWillis/Active-Directory-Account-Security)
+  - [Azure-dns-basics](https://github.com/TawannaWillis/Azure-dns-basics)
+
 
 
 <h2>🫱🏽‍🫲🏼Connect with me:</h2>
