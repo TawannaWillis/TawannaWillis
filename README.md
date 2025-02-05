@@ -13,7 +13,7 @@
   - [Azure-file-permissions-management](https://github.com/TawannaWillis/Azure-file-permissions-management)
 
 - <b>IT Support & Mangement Projects</b>
-  - [os-ticket-lifecycle](https://github.com/TawannaWillis/os-Ticket-Lifecycle)
+  - [os-Ticket-lifecycle](https://github.com/TawannaWillis/os-Ticket-Lifecycle)
   - [IT-end-user-trainig](https://github.com/TawannaWillis/IT-End-User-Training)
 
 
