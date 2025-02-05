@@ -8,11 +8,13 @@
   - [Azure-active-directory-configuration](https://github.com/TawannaWillis/Azure-active-directory-configuration)
 
 - <b>Security and Networking Projects</b>
-  - [Active-Directory-Account-Security](https://github.com/TawannaWillis/Active-Directory-Account-Security)
+  - [Active-directory-Account-Security](https://github.com/TawannaWillis/Active-Directory-Account-Security)
   - [Azure-dns-basics](https://github.com/TawannaWillis/Azure-dns-basics)
   - [Azure-file-permissions-management](https://github.com/TawannaWillis/Azure-file-permissions-management)
 
-
+- <b>IT Support & Mangement Projects</b>
+  - [os-ticket-lifecycle](https://github.com/TawannaWillis/os-Ticket-Lifecycle)
+  - [IT-end-user-trainig](https://github.com/TawannaWillis/IT-End-User-Training)
 
 
 <h2>🫱🏽‍🫲🏼Connect with me:</h2>
