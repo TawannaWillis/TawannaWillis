@@ -14,7 +14,7 @@
 
 - <b>IT Support & Mangement Projects</b>
   - [osTicket-ticket-lifecycle](https://github.com/TawannaWillis/osTicket-ticket-lifecycle)
-  - [IT-end-user-trainig](https://github.com/TawannaWillis/IT-End-User-Training)
+  - [IT-end-user-training](https://github.com/TawannaWillis/IT-end-user-training)
 
 
 <h2>🫱🏽‍🫲🏼Connect with me:</h2>
